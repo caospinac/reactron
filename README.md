@@ -1,2 +1,2 @@
 # Reactron
-## Simple application development using React and Electron
+## Simple desktop application development using React and Electron
